@@ -10,15 +10,24 @@ const first = 'Tyler ';
 let middle = 'Coder ';
 const last = 'Morrill';
 
-console.log (name = first + middle + last);
+let name = first + middle + last;
+
+console.log(name);
 
 let a = 79;
 let b = 1654;
 
-console.log( calculation = a + b)
+let calculation = a + b;
+
+console.log(calculation);
 
 let bigMacEaten = 10;
 let whatHappens = ' Puke';
 
-console.log(unexpected = bigMacEaten + whatHappens);
+let unexpected = bigMacEaten + whatHappens);
+
+console.log(unexpected);
 // it concatinated the number and the string. because we added them together??
+
+
+
