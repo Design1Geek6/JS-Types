@@ -24,10 +24,10 @@ console.log(calculation);
 let bigMacEaten = 10;
 let whatHappens = ' Puke';
 
-let unexpected = bigMacEaten + whatHappens);
+let unexpected = bigMacEaten + whatHappens;
 
 console.log(unexpected);
-// it concatinated the number and the string. because we added them together??
+// it concatinated the number and the string and turned them both into a string. because we added them together??
 
 
 
