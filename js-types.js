@@ -6,8 +6,18 @@
 // Add a number and a string together. Store the result in a variable: unexpected 
 // What happened?  Why? 
 
-first = 'Tyler ';
-middle = 'Coder ';
-last = 'Morrill';
+const first = 'Tyler ';
+let middle = 'Coder ';
+const last = 'Morrill';
 
 console.log (name = first + middle + last);
+
+let a = 79;
+let b = 1654;
+
+console.log( calculation = a + b)
+
+let bigMacEaten = 10;
+let whatHappens = ' Puke';
+
+console.log(unexpected = bigMacEaten + whatHappens);
