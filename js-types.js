@@ -21,3 +21,4 @@ let bigMacEaten = 10;
 let whatHappens = ' Puke';
 
 console.log(unexpected = bigMacEaten + whatHappens);
+// it concatinated the number and the string. because we added them together??
