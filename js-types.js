@@ -7,24 +7,23 @@
 // What happened?  Why? 
 
 const first = 'Tyler ';
-let middle = 'Coder ';
+const middle = 'Jeffery ';
 const last = 'Morrill';
 
-let name = first + middle + last;
+const name = first + middle + last;
 
 console.log(name);
 
-let a = 79;
-let b = 1654;
+const a = 45;
+const b = 12;
 
-let calculation = a + b;
+const calculation = a + b;
 
 console.log(calculation);
+const fishCaught = 4;
+const whatType = ' Brown Trout';
 
-let bigMacEaten = 10;
-let whatHappens = ' Puke';
-
-let unexpected = bigMacEaten + whatHappens;
+const unexpected = fishCaught + whatType;
 
 console.log(unexpected);
 // it concatinated the number and the string and turned them both into a string. because we added them together??
